@@ -42,7 +42,7 @@ h2{
 }
 
 h3{
-    color: DarkGray; text-align: left;
+    color: DarkGray; text-align: center;
 }
 
 p{
@@ -54,8 +54,5 @@ img{
     height: 350x;
 }
 
-.content{
-    display: inline-block;
-    margin: 0;
-}
+
 
