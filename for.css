@@ -5,8 +5,8 @@
 .navigation{
     float: right;
     height: 100%;
-    width: 100%; /* Ширина блока */
-    background-color: #101010;
+    width: 100%;
+    background-color: black;
 }
 
 .navigation a{
@@ -15,8 +15,8 @@
     display: flex;
     float: right;
     padding: 15px 20px;
-    margin: 10px 20px 10px 30px;
-    background-color: #101010;
+    margin: 10px 20px 10px 20px;
+    background-color: black;
 }
 
 .navigation a li{
@@ -34,15 +34,28 @@
 .header{
     height: 100%;
     display: table;
-    padding: 0px 5px;
+
+}
+
+h2{
+    color: DarkGray; text-align: center;
+}
+
+h3{
+    color: DarkGray; text-align: left;
+}
+
+p{
+    color: DarkGray; text-align: left;
 }
 
 img{
-    width: 450px;
-    height: 400x;
+    width: 400px;
+    height: 350x;
 }
 
 .content{
     display: inline-block;
     margin: 0;
 }
+
