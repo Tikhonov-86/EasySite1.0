@@ -5,7 +5,7 @@
 .navigation{
     float: right;
     height: 100%;
-    width: 100%;
+    width: 100vw;
     background-color: black;
 }
 
@@ -33,7 +33,7 @@
 
 .header{
     height: 100%;
-    display: table;
+    display: table-cell;
 
 }
 
